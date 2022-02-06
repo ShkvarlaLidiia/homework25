@@ -1,2 +1,1 @@
-# homework25
-homework25
+my first repository on GitHub for SVN
